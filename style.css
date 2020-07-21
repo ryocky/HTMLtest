@@ -211,16 +211,29 @@ nav li{
     float: left;
     margin-top: 30px;
     margin-right: 30px;
-	}
-	
+    }
+    
+.map_box{
+    width: 670px;
+    clear:left;
+    }
+
 .map_block{
-	width: 425px;
-	float: left;
-	border: 5px #fff solid;
-	margin-top:30px;
+    width: 315px;
+    float: left;
     margin-right: 13px;	
     margin-bottom: 10px;
+}
+
+.map_photo{
+    width:670px;
+    margin-bottom: 10px;
     }
+    
+.place{
+	width: 670px;
+    margin-bottom: 10px;
+	}
 
 /*右サイドバー*/
 
