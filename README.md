@@ -1,2 +1,3 @@
 # HTMLtest
-This is HTMLtest
+これは、HTMLでサイトを作る際のサンプルページになります。
+HTMLとCSSの基本的な機能を用いて作成されています。
